@@ -1,4 +1,4 @@
-pred*.csv
+*.csv
 pred*.jpg
 pred*.json
 pred*/
