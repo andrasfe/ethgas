@@ -1,4 +1,5 @@
 *.csv
+*.tex
 pred*.jpg
 pred*.json
 pred*/
